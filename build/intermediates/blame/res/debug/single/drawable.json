@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable/button_login.xml",
+        "source": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/res/drawable/button_login.xml"
+    },
+    {
+        "merged": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable/inputbox.xml",
+        "source": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/res/drawable/inputbox.xml"
+    },
+    {
+        "merged": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable/button_decline.xml",
+        "source": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/res/drawable/button_decline.xml"
+    },
+    {
+        "merged": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable/button_end.xml",
+        "source": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/res/drawable/button_end.xml"
+    },
+    {
+        "merged": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable/button_call.xml",
+        "source": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/res/drawable/button_call.xml"
+    },
+    {
+        "merged": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/res/merged/debug/drawable/button_accept.xml",
+        "source": "/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/res/drawable/button_accept.xml"
+    }
+]

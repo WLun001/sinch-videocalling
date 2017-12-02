@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/exploded-aar/sinch-android-rtc/3.12.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="726054b6a6c86343d9b2c262e5a1dfbb0ced4b74">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/exploded-aar-sinch-android-rtc-3.12.3_1c1e472ad45e5edd732881bd795076750494f287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_ee8047a48c308bb1c6d7b522d91e77aa506de07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_df70eae03313ee7d056d4d464482185f0b7d2d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_bef9faef12fbb2bac02fa0c2f1cf5b07d355b247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_5e7163a223e6a8d2dc3285fbf51b6bf1e7222712.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_3b4d31aaf43a7052f62e6fc60f463a2d5aeab070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_75fc02105aaa80fc407d0d86e0948cd22690fde5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Lun/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Volumes/Storage/Downloads/sinch-android-rtc-3.12.3/samples/sinch-rtc-sample-video/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_2379215a0ad091e131fed97ceb31ee74e9282174.jar" />
+    </item>
+
+</items>
